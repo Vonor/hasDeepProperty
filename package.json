@@ -1,5 +1,5 @@
 {
-  "name": "hasdeepproperty",
+  "name": "hasDeepProperty",
   "version": "1.0.0",
   "description": "NodeJS Module for iterating over an Object to find a certain property",
   "main": "index.js",
